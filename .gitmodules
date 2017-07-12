@@ -6,4 +6,4 @@
         url = https://git.ffmpeg.org/ffmpeg.git
 [submodule "gst-libs/ext/gas-preprocessor"]
 	path = gst-libs/ext/gas-preprocessor
-	url = git://git@github.com:reinar/gas-preprocessor.git/gas-preprocessor.git
+	url = https://github.com/reinar/gas-preprocessor.git
